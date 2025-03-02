@@ -1,0 +1,15 @@
+.home {
+    width: 100%;
+  }
+  
+  .home .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .home .content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }

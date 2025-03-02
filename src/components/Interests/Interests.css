@@ -1,0 +1,51 @@
+.interests {
+    margin-top: 1rem;
+  }
+  
+  .interests .section-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+  
+  .interests-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .interest-card {
+    border-radius: 10px;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: transform 0.2s;
+  }
+  
+  .interest-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .interest-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+  }
+  
+  .data-icon::before {
+    content: "💻";
+  }
+  
+  .llm-icon::before {
+    content: "🤖";
+  }
+  
+  .interest-title {
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
