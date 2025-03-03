@@ -10,7 +10,7 @@ const Projects = () => {
         "Developed an website visualize emission distributions into maps",
       technologies: ["React Js", "Express Js"],
       timeline: "Nov 2024 - Present",
-      link: "",
+      link: "https://inest.gu-bdlab.com/",
       image: "/images/360-air-pollution.jpg",
     },
     {
