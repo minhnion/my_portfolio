@@ -19,7 +19,7 @@ const Resume = () => {
       company: "AI4LIFE Research Center, HUST",
       period: "November 2024 - Present",
       responsibilities: [
-        "Develop Web for realistic projects using ReactJs",
+        "Develop Web for realistic projects using ReactJs, NodeJs, ExpressJs, MongoDB",
         "Visualizing emission distribution maps on the web",
         "Experience working in a team following the Agile model",
       ],
@@ -51,7 +51,7 @@ const Resume = () => {
 
     {
       category: "Web/App framework",
-      items: ["React Js", "Flutter"],
+      items: ["React Js", "Next Js", "Flutter"],
     },
 
     {
@@ -65,7 +65,7 @@ const Resume = () => {
 
     {
       category: "Tools & Platforms",
-      items: ["Git", "Docker"],
+      items: ["Git", "Docker", "Postman", "Firebase"],
     },
   ];
 

@@ -8,13 +8,23 @@ const Projects = () => {
       title: "360 Air Pollution",
       description:
         "Developed an website visualize emission distributions into maps",
-      technologies: ["React Js", "Express Js"],
+      technologies: ["React Js", "Express Js", "MongoDB", "Node Js"],
       timeline: "Nov 2024 - Present",
-      link: "https://inest.gu-bdlab.com/",
+      link: "https://inest-test.leira.com.vn/",
       image: "/images/360-air-pollution.jpg",
     },
     {
       id: 2,
+      title: "Kitchen care E-commerce",
+      description:
+        "Developed an e-commerce website for kitchen care products, allowing users to browse and purchase items online.",
+      technologies: ["Next Js", "Express Js", "MongoDB", "Node Js"],
+      timeline: "May 2024 - Present",
+      link: "https://demo.kitchencare.vn/",
+      image: "/images/kitchen-care.jpg",
+    },
+    {
+      id: 3,
       title: "Library Management System",
       description:
         "Created an website to help librarians manage library and customers can search book information",
@@ -24,7 +34,17 @@ const Projects = () => {
       image: "images/library-management-system.jpg",
     },
     {
-      id: 3,
+      id: 4,
+      title: "IOV Mobile App",
+      description:
+        "Developed a cross-platform mobile application for IOV to manage tasks related to the installation and assembly of automotive devices efficiently.",
+      technologies: ["Flutter", "Firebase"],
+      timeline: "Mar 2025",
+      link: "https://apps.apple.com/vn/app/iov/id6740426999?l=vi&platform=iphone",
+      image: "/images/iov_app.jpg",
+    },
+    {
+      id: 5,
       title: "Apartment Management",
       description:
         "Built a cross-platform application to help residents track and pay their fees online through VNPay. Additionally, it allows managers to monitor an apartment.",
@@ -34,7 +54,7 @@ const Projects = () => {
       image: "/images/apartment-management.jpg",
     },
     {
-      id: 4,
+      id: 6,
       title: "Predict student grade",
       description:
         "Used algorithms in machine learning such as: linear regression, random forest, ANN to predict grade of student.",

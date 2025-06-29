@@ -22,7 +22,7 @@ const AboutMe = () => {
         </p>
         
         <p>
-          My research focuses on Web development and AI applications. 
+          My research focuses on Web/App development and AI applications. 
           My current project involves studying air pollution in Vietnam and visualizing emission distribution maps on the Web.
         </p>
       </div>
