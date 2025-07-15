@@ -16,9 +16,9 @@ const AboutMe = () => {
         
         <p>
           I am working at the
-          <a href='https://www.facebook.com/profile.php?id=61567861203820' target='_blank'> AI4LIFE Research Center</a>, 
+          <a href='https://www.facebook.com/profile.php?id=61567861203820' target='_blank' rel="noreferrer"> AI4LIFE Research Center</a>, 
           Hanoi University of Science and Technology under the supervision of Associate Professor, PhD 
-          <a href="#"> Nguyen Phi Le</a>.
+          <a href="https://www.facebook.com/profile.php?id=61567861203820"  target='_blank' rel="noreferrer"> Nguyen Phi Le</a>.
         </p>
         
         <p>

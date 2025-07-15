@@ -13,6 +13,7 @@ const SocialLinks = () => {
         <a 
           href={link.url} 
           target='_blank'
+          rel="noreferrer"
           className="social-button" 
           key={index}
           aria-label={link.platform}
