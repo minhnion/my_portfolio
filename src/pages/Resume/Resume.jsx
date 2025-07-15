@@ -46,12 +46,12 @@ const Resume = () => {
   const skills = [
     {
       category: "Programming Languages",
-      items: ["Html", "Css", "JavaScript", "Dart", "Python"],
+      items: ["JavaScript", "Java", "Html", "Css", "Python", "Dart"],
     },
 
     {
       category: "Web/App framework",
-      items: ["React Js", "Next Js", "Flutter"],
+      items: ["React Js", "Next Js", "Express Js", "FastAPI", "Flutter"],
     },
 
     {
@@ -60,12 +60,15 @@ const Resume = () => {
         "Numpy",
         "Pandas",
         "Scikit-learn",
+        "Pytorch",
+        "Computer Vision",
+        "Natural Language Processing"
       ],
     },
 
     {
       category: "Tools & Platforms",
-      items: ["Git", "Docker", "Postman", "Firebase"],
+      items: ["Git", "Docker", "CI/CD", "Postman", "Firebase"],
     },
   ];
 
